@@ -1,3 +1,5 @@
+
+koifarmshop
 Hệ thống Quản lý Bán Cá Koi của Trang Trại được xây dựng nhằm tối ưu hóa quy trình quản lý bán cá và dịch vụ chăm sóc tại các trang trại. Các tính năng chính của hệ thống bao gồm:
 
 1. Trang Chủ  
